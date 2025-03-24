@@ -1,1 +1,1 @@
-# Timetable-Example
+This is an example to my assignment
